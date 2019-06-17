@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerStatus.js">
+    <Files>
+      <File FileName="Assets\CameraMove.js" Line="1" Column="1" />
+      <File FileName="Assets\TitleScreen.js" Line="1" Column="1" />
+      <File FileName="Assets\EndingTitle.js" Line="1" Column="1" />
+      <File FileName="Assets\meetFire.js" Line="1" Column="1" />
+      <File FileName="Assets\meetJellyfish.js" Line="1" Column="1" />
+      <File FileName="Assets\playerStatus.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
